@@ -1,0 +1,6 @@
+CPU: Intel core i3-2100 3.1 GHz
+RAM: 8GB DDR3 1333 MHz
+DISCO: hitachi hds 72 105 500GB 7200rpm
+PS: 240W PFC
+PANTALLA: LG FLATRON E2260
+Disquetera: dvdrom dh40m HP
