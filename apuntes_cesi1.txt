@@ -1,0 +1,49 @@
+Introducción a configuración y evaluación de sistemas informáticos
+
+- Un sistema informático es la combinación de software, hardware y recurso humano.
+- Clasificación:
+	- Según el nivel de paralelismo: SISD, SIMD, MISD, MIMD.
+	- Según su uso: De uso general o específico.
+	- Según la arquitectura de servicio: Sistema aislado, Arquitectura cliente-servidor, arquitectura de n capas, arquitectura cliente-cola-cliente.
+
+Fundamentos de configuración
+
+- Cualquier sistema diseñado debe satisfacer una serie de especificaciones de rendimiento.
+- Los diseñadores, usuarios y administradores dnecesitan configuración y evaluación.
+- Objetivo: mejor rendimiento con el menor coste.
+- Configuración: 
+	- Cómo diseñar o qué componentes usar.
+	- Cómo diseñar <-> requisitos funcionales.
+	- Qué componentes <-> prestaciones.
+- Disponibilidad
+	- Tiempo de inactividad (Downtime) planificado o no planificado.
+- Fiabilidad
+	- MTBF(Mean Time Between Failures): Tiempo medio entre dos fallos consecutivos.
+- Seguridad
+- Escalabilidad
+	- Un sistema aumenta sus prestaciones ante un incremento de carga.
+- Extensibilidad
+	- Un sistema que puede aumentar sus características o recursos locales.
+- Mantenimiento
+- Coste
+- Eficiencia Energética
+- Alto rendimiento
+
+Fundamentos de evaluación de un sistema informático
+
+- Evaluar los índices de rendimiento.
+- Sirve para Optimizar, Seleccionar, Ajustar y Predecir.
+- Carga: Tareas de un sistema.
+- Carga de prueba (test workload).
+- Rendimiento = tiempo.
+- El rendimiento afecta al hardware, software y la distribución de la carga.
+- Medidas:
+	- Tiempo de respuesta.
+	- Productividad.
+- Cómo evaluar:
+	- Monitorización (medir)
+	- Referenciación (benchmarking) (comparar)
+	- Modelado (predecir)
+
+Comparación conjunta de prestaciones y coste
+
