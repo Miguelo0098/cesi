@@ -47,3 +47,7 @@ Fundamentos de evaluación de un sistema informático
 
 Comparación conjunta de prestaciones y coste
 
+- (ver presentacion formulas).
+
+Limites en la mejora del rendimiento
+
