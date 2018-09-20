@@ -1,6 +1,14 @@
 CPU: Intel core i3-2100 3.1 GHz
 RAM: 8GB DDR3 1333 MHz
 DISCO: hitachi hds 72 105 500GB 7200rpm
-PS: 240W PFC
+PS: 240W active PFC
 PANTALLA: LG FLATRON E2260
 Disquetera: dvdrom dh40m HP
+
+Ordenador aula:
+CPU: Intel Core i3-2100 CPU @ 3.10 GHz
+Disco duro: 500 GB HD 7200
+RAM: 8GB DDR3 1333MHz
+Fuente alim.:  240W Active PFC
+Graphics: Intel HD Graphics
+Pantalla: LG E2260S-PN
