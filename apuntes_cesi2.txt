@@ -1,0 +1,10 @@
+Configuración de Sistemas Informáticos para uso general.
+
+Hardware
+
+- Carcasa: Tipos de torres para pc
+	- AT
+	- ATX
+- Placa Base
+	- Una placa base es la tarjeta de circuito impreso (PCB) principal de un computador. En ella se conectan los principales componentes del computador y contiene diversos conectores para los distintos periféricos.
+	- Tienen distintos tamaños y formas: ATX, Micro-ATX, Mini-ITX, Nano-ITX, Pico-ITX.
