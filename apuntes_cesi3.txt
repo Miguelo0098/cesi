@@ -1,0 +1,10 @@
+Configuración de sistemas Informáticos para uso específico
+
+Introducción
+- Un Sistema Informático para uso específico está destinado a servir o desempeñar una función concreta.
+- Un servidor es una computadora que, formando parte de una red, provee servicios a otras computadoras denominadas clientes.
+- Un sistema empotrado es un sistema de computación diseñado para realizar una o algunas pocas funciones dedicadas frecuentemente en un sistema de computación en tiempo real.
+- Servidores
+  - Servidor dedicado: son aquellos que le dedican toda su potencia a administrar los recursos de la red, es decir, atender las solicitudes de procesamiento de los clientes
+  - Servidor no dedicado: son aquellos que no dedican toda su potencia a los clientes, sino también puede jugar el rol de estaciones de trabajo al procesar solicitudes de un usuario local.
+- Dependiendo de la carga de trabajo a ser atendida por un servidor es necesario ampliar.
